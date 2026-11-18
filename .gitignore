@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Local environment settings and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# DVC local cache and machine-specific settings.
+# Keep *.dvc files, dvc.yaml, and dvc.lock trackable.
+.dvc/cache/
+.dvc/tmp/
+.dvc/config.local
+
+# Local MLflow tracking output
+mlruns/
+mlartifacts/
