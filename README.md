@@ -10,9 +10,9 @@ Phase 1 establishes the common environment, dataset, documentation, and test
 baseline. Each team member can create the same Python environment, collect the
 same dataset, and verify the setup before beginning a practical.
 
-The Practical 2–6 directories are structure only at this stage. Their
-practical-specific implementations, configurations, and workflows are not
-included yet.
+Practical-specific implementations and configurations for Practicals 3–6 are
+not included yet. Practical 2's Git workflow is documented in
+[P2_Git_GitHub/docs/GIT_WORKFLOW.md](P2_Git_GitHub/docs/GIT_WORKFLOW.md).
 
 ## Dataset
 
@@ -32,7 +32,7 @@ feature list and encoding details.
 
 | Practical | Planned topic | Phase 1 status |
 | --- | --- | --- |
-| Practical 2 | Git version control and collaboration | Directory only |
+| Practical 2 | Git version control and collaboration | Workflow guide |
 | Practical 3 | DVC data and artifact versioning | Directory only |
 | Practical 4 | Reproducible ML pipeline | Directory only |
 | Practical 5 | Feast feature store | Directory only |
