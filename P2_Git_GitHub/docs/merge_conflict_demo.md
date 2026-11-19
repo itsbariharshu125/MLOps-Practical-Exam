@@ -3,4 +3,4 @@
 This file is used to demonstrate competing local branch edits and their
 resolution for Practical 2.
 
-Resolution note: left branch contribution.
+Resolution note: the left and right branch changes were reviewed and combined.
